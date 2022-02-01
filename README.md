@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="ishubham010.github.io/tic-tac-toe/">
+  <a href="https://ishubham010.github.io/Tic-Tac-Toe/">
     <h2 align="center">TIC-TAC-TOE</h2>
   </a>
 </p> 
